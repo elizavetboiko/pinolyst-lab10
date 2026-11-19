@@ -3,15 +3,15 @@
 **Автор:** Єлизавета Бойко, група 3-2з
 
 ## Що в репозиторії
-- `index.html` + `css/style.css` — **сторінка з посиланнями (link-in-bio)**: логотип і назва → картка «Клуб «Пінолист» у Telegram» з позначкою «Закритий канал» і кнопкою **«Переглянути канал · демо»** + кнопка «Доступ на місяць · 99 грн · демо» → блок «Магазин і соцмережі» (Instagram, Facebook, YouTube, TikTok, інтернет-магазин, Telegram-бот) → футер. Mobile-first, hover-ефекти.
+- `index.html` + `css/style.css` — **сторінка з посиланнями (link-in-bio)**: логотип і назва → картка «Клуб «Пінолист» у Telegram» з позначкою «Закритий канал» і кнопкою **«Підписатися на канал»** + кнопка «Оплатити доступ · 99 грн / міс (WayForPay)» → блок «Магазин і соцмережі» (Instagram, Facebook, YouTube, TikTok, інтернет-магазин, Telegram-бот) → футер. Mobile-first, hover-ефекти.
 - `subscribe_button.html` — окрема **кнопка підписки** (HTML-код для вставлення на будь-який сайт).
 - `channel_avatar.png` (640×640) — аватар для каналу.
 - `docs/INSTRUKTSIIA.md` — покрокові дії в WayForPay і Telegram з даними, які треба вводити.
 - `docs/screenshots/` — вигляд сторінки на комп'ютері й телефоні, кнопка підписки.
 
-## Посилання (замініть демо-значення в `content/site.json` → `links`, потім перезберіть)
-- Join-лінк каналу: `https://t.me/+Pinolyst_Club_demo` *(демо)*
-- Платіжне посилання WayForPay: `https://secure.wayforpay.com/payment/pinolyst_club99` *(демо)*
+## Посилання
+- Join-лінк закритого каналу: `https://t.me/+eC0vN3_kn0BlYjUy`
+- Платіжне посилання WayForPay: `https://secure.wayforpay.com/button/bd3f54842ad53`
 - Магазин: `../pinolyst-lab11/` (відносний шлях до репозиторію `pinolyst-lab11` на тому ж GitHub-акаунті)
 - Сторінка онлайн: `https://elizavetboiko.github.io/pinolyst-lab10/`
 
